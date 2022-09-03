@@ -29,8 +29,7 @@ class FirstLetterPrinter
             {
                 result += let1;
                 space = false;
-            }
-            
+            }            
             else // Remaining character of the string
             {
                 space = false;
