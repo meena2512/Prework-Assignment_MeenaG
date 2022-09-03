@@ -1,7 +1,7 @@
 /*
 First Letter Printer - You are provided with a string. 
 Your task is to create a string with the first letter of every word in the string. 
-Input: great learning  / Output: gl 
+Input: Hey, Printing first letter of every word. / Output: HPfloew
 */
 
 import java.util.Scanner; 
