@@ -1,5 +1,4 @@
-**# Prework-Assignment_MeenaG
-Prework Assignment_MeenaG**
+**# Prework-Assignment_MeenaG**
 
 **Question 1: First Letter Printer** 
 You are provided with a string. 
